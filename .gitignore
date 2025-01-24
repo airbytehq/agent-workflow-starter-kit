@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.cache
+__pycache__
+.files
+.models
+.deepeval_telemtry.txt
